@@ -1,0 +1,15 @@
+body{
+    background-color: crimson;
+}
+.cont{
+    border: 1px solid white;
+    color: white;
+
+}
+.title, .it{
+    color: white;
+}
+.cont-9{
+    display: flex;
+
+}
